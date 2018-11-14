@@ -13,14 +13,25 @@ Put ffprobe.exe near the py file (download from https://ffmpeg.zeranoe.com/build
 
 ## CMD output example
 [youtube] wyTBNTHZIdU: Downloading webpage
+
 [youtube] wyTBNTHZIdU: Downloading video info webpage
+
 [download] Destination: Funniest Bloopers - Friends-wyTBNTHZIdU.webm
+
 [download] 100% of 5.43MiB in 00:01
+
 [ffmpeg] Destination: Funniest Bloopers - Friends-wyTBNTHZIdU.mp3
+
 Deleting original file Funniest Bloopers - Friends-wyTBNTHZIdU.webm (pass -k to keep)
+
 [youtube] XVrilSIQO_8: Downloading webpage
+
 [youtube] XVrilSIQO_8: Downloading video info webpage
+
 [download] Destination: 12 Harry Potter Actors Who Were Replaced In The Sequels-XVrilSIQO_8.webm
+
 [download] 100% of 7.07MiB in 00:01
+
 [ffmpeg] Destination: 12 Harry Potter Actors Who Were Replaced In The Sequels-XVrilSIQO_8.mp3
+
 Deleting original file 12 Harry Potter Actors Who Were Replaced In The Sequels-XVrilSIQO_8.webm (pass -k to keep)
