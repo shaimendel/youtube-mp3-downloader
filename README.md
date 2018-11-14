@@ -2,8 +2,8 @@
 Small Python Utility To Convert Youtube URLs To MP3 Files (For Windows)
 
 ## Preparation
-pip install youtube_dl
-Put ffprobe.exe near the py file (download from https://ffmpeg.zeranoe.com/builds/win64/static/ffmpeg-20181023-305e523-win64-static.zip, in bin folder)
+- pip install youtube_dl
+- Put ffprobe.exe near the py file (download from https://ffmpeg.zeranoe.com/builds/win64/static/ffmpeg-20181023-305e523-win64-static.zip, in bin folder)
 
 ## Instructions
 - Edit the links.txt file and put your own youtube links, one in a line
